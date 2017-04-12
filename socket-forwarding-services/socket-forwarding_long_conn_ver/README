@@ -1,1 +1,2 @@
-recive socket input and forward to remote device without disconnect. one way forward, need discomment some code if need server reply support
+recive socket input and forward to remote device without disconnect.
+one way forward, need discomment some code if need server reply support
